@@ -1,5 +1,4 @@
-# DSA
-Differentiable Spline Approximations
+# Differentiable Spline Approximations (DSA)
 
 ### [**Paper**](https://arxiv.org/abs/2110.01532) <br>
 
